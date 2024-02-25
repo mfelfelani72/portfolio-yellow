@@ -1,0 +1,7 @@
+1-
+
+composer require laravel/ui
+
+2-
+php artisan ui bootstrap --auth
+
